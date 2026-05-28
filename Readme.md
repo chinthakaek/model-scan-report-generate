@@ -20,6 +20,7 @@ An enterprise scanning reporting tool built for the **Palo Alto Networks Prisma 
 ├── hf_sbom.py            # Hugging Face config extraction & CycloneDX generator
 ├── .env.example          # Sample environment credentials blueprint
 └── .gitignore            # Keeps environment profiles out of public version control
+```
 
 Prerequisites
 Python 3.11 or Python 3.12
