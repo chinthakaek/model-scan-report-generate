@@ -1,0 +1,3 @@
+model-security-client
+python-dotenv
+requests
